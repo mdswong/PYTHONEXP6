@@ -6,7 +6,7 @@ and False if not.
 """
 
 # secretWord - a string
-# lettersGuessed - a list of the letters
+# lettersGuessed - a list of letters
 
 def isWordGuessed(secretWord, lettersGuessed):
     
