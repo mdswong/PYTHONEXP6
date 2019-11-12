@@ -7,7 +7,7 @@ isWordGuessed.
 """
 
 # secretWord - a string
-# lettersGuessed - a list of the letters
+# lettersGuessed - a list of letters
 # string - return, consists of letters and underscores
 
 def getGuessedWord(secretWord, lettersGuessed):
